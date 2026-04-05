@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Diego 👋
 
-MSc student in Data Science and Artificial Intelligence, specializing in Computer Vision. Experienced in Python for developing machine learning models and image processing solutions.
+MSc student in Data Science and Artificial Intelligence, specializing in Computer Vision. Experienced in Python for developing machine learning models and image processing solutions in real time.
 
 <!--with hands-on experience developing real-world AI solutions using Python. Focused on building scalable machine learning models.-->
 
@@ -10,17 +10,19 @@ MSc student in Data Science and Artificial Intelligence, specializing in Compute
 
 ## ⚡🙋‍♂️ About Me
 
-<!--<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </br>
 
-- 🔭 I’m working on Computer Vision projects
+- 🔭 I’m working on Computer Vision projects (image classification & object detection)
 - 🌱 I’m currently learning **Vision Transformers, Big Data, and Cloud technologies**  
 - 💬 Ask me about Data Analysis, Data Visualization, and Machine Learning  
 - ⚡ Fun fact: I love learning 📚, I'm passionate about technology 💻, and I enjoy traveling 🌍 and photography 📷  
 
-</br>
 
 
+
+
+<!--
 ## 🚀 Featured Projects
 
 ### 🔍 Computer Vision for Sugar Quality Analysis
@@ -45,10 +47,9 @@ MSc student in Data Science and Artificial Intelligence, specializing in Compute
 - Discovered the root cause of instability related to raw juice level  
 - Proposed a control strategy to regulate flow and reduce variability  
 
+-->
 
 </br>
-
-
 
 
 ## Skills:
