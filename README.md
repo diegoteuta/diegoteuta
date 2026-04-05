@@ -2,8 +2,15 @@
 
 ### Hi there 👋
 
-MSc student in Data Science and Artificial Intelligence, specializing in Computer Vision. Experienced in Python for developing machine learning models and image processing solutions. Passionate about building intelligent systems and extracting insights from visual data.
+MSc student in Data Science and Artificial Intelligence, specializing in Computer Vision. Experienced in Python for developing machine learning models and image processing solutions.  
+<!--building intelligent systems and extracting insights from visual data.-->
 
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+- 🔭 I’m working on Computer Vision projects in real-world environments (image classification & object detection) 
+- 🌱 I’m currently learning **Visual Transformers, Big Data, Cloud**
+- ⚡ Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 😄 Fun fact: I love study (💬), Passionate about Tecnology (💻), Traveling (🌍), and Photography (📷).
 
 
 ## Skills:
@@ -41,9 +48,9 @@ MSc student in Data Science and Artificial Intelligence, specializing in Compute
 #### IDEs
 
 <!-- ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;-->
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 <!-- ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;-->
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 <!-- ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;-->
 
 
