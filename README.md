@@ -5,7 +5,7 @@
 MSc student in Data Science and Artificial Intelligence, specializing in Computer Vision. Experienced in Python for developing machine learning models and image processing solutions.  
 <!--building intelligent systems and extracting insights from visual data.-->
 
-<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<!--<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
 
 - 🔭 I’m working on Computer Vision projects in real-world environments (image classification & object detection) 
 - 🌱 I’m currently learning **Visual Transformers, Big Data, Cloud**
