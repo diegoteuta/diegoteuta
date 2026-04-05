@@ -1,16 +1,54 @@
 ![IA-developer](images/presentation.png)
 
-### Hi there 👋
+### Hi there, I'm Diego 👋
 
-MSc student in Data Science and Artificial Intelligence, specializing in Computer Vision. Experienced in Python for developing machine learning models and image processing solutions.  
-<!--building intelligent systems and extracting insights from visual data.-->
+MSc student in Data Science and Artificial Intelligence, specializing in Computer Vision. Experienced in Python for developing machine learning models and image processing solutions.
+
+<!--with hands-on experience developing real-world AI solutions using Python. Focused on building scalable machine learning models.-->
+
+
+
+## ⚡🙋‍♂️ About Me
 
 <!--<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
+</br>
 
-- 🔭 I’m working on Computer Vision projects in real-world environments (image classification & object detection) 
-- 🌱 I’m currently learning **Visual Transformers, Big Data, Cloud**
-- ⚡ Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄 Fun fact: I love study (💬), Passionate about Tecnology (💻), Traveling (🌍), and Photography (📷).
+- 🔭 I’m working on Computer Vision projects
+- 🌱 I’m currently learning **Vision Transformers, Big Data, and Cloud technologies**  
+- 💬 Ask me about Data Analysis, Data Visualization, and Machine Learning  
+- ⚡ Fun fact: I love learning 📚, I'm passionate about technology 💻, and I enjoy traveling 🌍 and photography 📷  
+
+</br>
+
+
+## 🚀 Featured Projects
+
+### 🔍 Computer Vision for Sugar Quality Analysis
+- Designed and developed a computer vision system to estimate sugar color in a fast and non-destructive way using digital image processing  
+- Implemented impurity detection and classification using deep learning model  
+- Improved quality control by enabling automated and objective analysis  
+
+
+
+
+### 🎯 Real-Time Sugar Bag Detection & Classification System
+- Developed a real-time system to detect, count, and classify raw sugar bags on a conveyor belt  
+- Integrated a camera-based solution for continuous industrial monitoring  
+- Achieved reliable performance in real-time environments 
+
+
+
+
+### 📊 Data Analysis & Process Optimization in Sugar Production
+- Collected and analyzed data from the clarification station in a sugar production plant  
+- Identified key variables affecting process stability (flow rates, tank levels, pH, temperature)  
+- Discovered the root cause of instability related to raw juice level  
+- Proposed a control strategy to regulate flow and reduce variability  
+
+
+</br>
+
+
 
 
 ## Skills:
@@ -18,9 +56,10 @@ MSc student in Data Science and Artificial Intelligence, specializing in Compute
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-<!--![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;-->
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+<!--![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;-->
 
 #### ML/DL
 
@@ -47,7 +86,6 @@ MSc student in Data Science and Artificial Intelligence, specializing in Compute
 
 #### IDEs
 
-<!-- ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;-->
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 <!-- ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;-->
@@ -67,6 +105,9 @@ MSc student in Data Science and Artificial Intelligence, specializing in Compute
 
 </p>
 
+
+
+<!--⭐ Data with purpose-->
 
 
 <!--
